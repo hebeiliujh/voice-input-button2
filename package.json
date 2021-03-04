@@ -1,7 +1,7 @@
 {
   "name": "@beige/voice-input2",
   "description": "New version of voice input button using new interface of iflytek voice dictation (the stream version).",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "ferrinweb <ferrinweb@gmail.com>",
   "main": "dist/voice-input-button.js",
   "license": "MIT",
